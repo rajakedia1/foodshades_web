@@ -1,0 +1,7 @@
+[21-Mar-2016 07:44:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rajakedia1/public_html/storeadmin/inventory_list.php:27) in /home/rajakedia1/public_html/storeadmin/inventory_list.php on line 72
+[21-Mar-2016 16:17:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rajakedia1/public_html/storeadmin/inventory_list.php:27) in /home/rajakedia1/public_html/storeadmin/inventory_list.php on line 72
+[22-Mar-2016 08:30:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rajakedia1/public_html/storeadmin/inventory_edit.php:27) in /home/rajakedia1/public_html/storeadmin/inventory_edit.php on line 49
+[23-Mar-2016 08:21:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rajakedia1/public_html/storeadmin/special_item.php on line 79
+[23-Mar-2016 08:23:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rajakedia1/public_html/storeadmin/special_item.php on line 79
+[21-Oct-2016 08:14:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rajakedia1/public_html/storeadmin/special_item.php on line 79
+[21-Oct-2016 08:15:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rajakedia1/public_html/storeadmin/special_item.php on line 79
