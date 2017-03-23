@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset=utf-8>
-<title><?php echo $title;?></title>
+<title>FoodShades | Home</title>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <link rel=stylesheet href=style/accor.css type=text/css>
 <link rel=stylesheet href=style/main.css type=text/css>
@@ -21,11 +21,24 @@
     
         <div class="title"><img src="img/logo.png" width="50px" height="50px" style="padding:15px;"/><b>FoodShades</b></div>
         <nav>
+            <div class="lap">
             <ul>
-                <li><a href="index.php">Home</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="join.html">Join</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            </div>
+        </nav>
+        
+        <nav>
+            <button class="accordion flips" style="background: none;"><img src="img/menu_icon.png" /></button>
+            <div class="mob panel" style="opacity:1;overflow: hidden;padding: 0px;">
+            <ul>
+                <li><a href="#">Home</a></li>
                 <li><a href="#">Suggestion</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
+            </div>
         </nav>
         
-    </header>
+    </header><div style="clear:both;"></div>

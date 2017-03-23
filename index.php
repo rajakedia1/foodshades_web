@@ -156,7 +156,7 @@ if(isset($_GET['cmd']) && $_GET['cmd'] == "emptycart"){
     header("location: index.php");
 }
 ?>
-<?php include 'php/head.php';?>
+<?php include 'php/head.php';    // Head?>
 <script >
 function additem(id){
     var qx = "quan"+id;
