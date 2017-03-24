@@ -326,8 +326,9 @@ footer .join a:hover {
 }
 .wrapper {
   width: 100%;
+  float: left;
   display: block;
-  background: url("../img/bg.jpg");
+  background: #ffffff;
 }
 .wrapper .container {
   width: 90%;
@@ -411,7 +412,7 @@ footer .join a:hover {
 .wrapper .container .cart {
   float: left;
   width: 400px;
-  background: green;
+  background: white;
   display: block;
   margin-top: 20px;
   z-index: 10;
